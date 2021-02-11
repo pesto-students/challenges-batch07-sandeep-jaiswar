@@ -1,4 +1,4 @@
-import { abbreviateString } from './abbreviateString.js';
+import { abbreviateString } from './abbreviateString';
 
 describe('abbreviateString', () => {
   it('abbreviates the following strings', () => {
