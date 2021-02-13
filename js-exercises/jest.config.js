@@ -1,4 +1,5 @@
-module.exports = {
+/* eslint-disable linebreak-style */
+export default {
   verbose: true,
   transform: {
     '^.+\\.(js|ts)$': 'babel-jest',
