@@ -1,4 +1,4 @@
-module.exports = {
+export default {
   verbose: true,
   transform: {
     '^.+\\.(js|ts)$': 'babel-jest',
